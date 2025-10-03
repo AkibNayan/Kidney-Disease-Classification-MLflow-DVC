@@ -1,6 +1,8 @@
 # Kidney-Disease-Classification-MLflow-DVC
 
-GitHub Repo -> project template -> requirements and setup -> logging ->
+## Project Sequentiality
+
+GitHub Repo -> project template -> requirements and setup -> logging, exception & utils module ->
 
 ## Workflows
 
