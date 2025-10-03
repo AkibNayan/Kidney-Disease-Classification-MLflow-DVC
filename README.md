@@ -1,5 +1,7 @@
 # Kidney-Disease-Classification-MLflow-DVC
 
+GitHub Repo -> project template -> requirements and setup -> logging ->
+
 ## Workflows
 
 1. Update config.yaml
