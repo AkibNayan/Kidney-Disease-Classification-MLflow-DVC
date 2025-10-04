@@ -4,7 +4,7 @@
 
 GitHub Repo -> project template -> requirements and setup -> logging, exception & utils module -> data ingestion notebook experiment -> data ingestion modular code ->
 
-## Workflows
+## Workflows Part
 
 1. Update config.yaml
 2. Update secrets.yaml [Optional]
