@@ -2,7 +2,7 @@
 
 ## Project Sequentiality
 
-GitHub Repo -> project template -> requirements and setup -> logging, exception & utils module -> data ingestion notebook experiment -> data ingestion modular code ->
+GitHub Repo -> project template -> requirements and setup -> logging, exception & utils module -> data ingestion notebook experiment -> data ingestion modular code -> prepare base model notebook experiment -> prepare base model modular code
 
 ## Workflows Part
 
