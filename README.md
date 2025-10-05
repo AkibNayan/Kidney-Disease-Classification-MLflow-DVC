@@ -1,8 +1,10 @@
 # Kidney-Disease-Classification-MLflow-DVC
 
+Here I have used small set of data, that's why accuracy will be lower.
+
 ## Project Sequentiality
 
-GitHub Repo -> project template -> requirements and setup -> logging, exception & utils module -> data ingestion notebook experiment -> data ingestion modular code -> prepare base model notebook experiment -> prepare base model modular code
+GitHub Repo -> project template -> requirements and setup -> logging, exception & utils module -> data ingestion notebook experiment -> data ingestion modular code -> prepare base model notebook experiment -> prepare base model modular code -> model training notebook experiment.
 
 ## Workflows Part
 
